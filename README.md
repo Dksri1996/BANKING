@@ -4,6 +4,7 @@ Preinstallations-1)XAMPP software
        
        (-------FOR UBUNTU-------) for windows scroll down
 Steps-FOR UBUNTU
+      
       1)Install XAMPP on your system
       2)Copy the Banking_System Folder in htdocs folder in Xampp.
       

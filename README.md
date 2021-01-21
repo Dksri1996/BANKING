@@ -1,7 +1,4 @@
-# BANKING
-BANKING SYSTEM WEB APPLICATION----SUBMITTED BY DHEERAJ KUMAR SRIVASTAVA           202CS006
-                                               VINAYAK PRAKASHAN CHOYYAN          202CS033
-GITHUB LINK-https://github.com/pcvinayak/PISBANK											   
+# BANKING											   
 											   
 Preinstallations-1)XAMPP software
        

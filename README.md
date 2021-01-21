@@ -10,7 +10,7 @@ Steps-FOR UBUNTU
       
         To find htdocs folder, computer--->opt--->lampp--->htdocs
         
-        (you have to paste Banking_System Folder inside htdocs folder)
+        (you have to paste "banking" Folder inside htdocs folder)
       3)Open Terminal on ubuntu and give following series of command
       ->cd /opt/lampp
       ->sudo ./manager-linux-x64.run
@@ -30,7 +30,7 @@ Steps-FOR UBUNTU
       13)Now after selection scroll down and click "go".
       14)Now you are ready to view the site---"BANKING SYSTEM WEB APPLICATION"
          To view,a)Open a new tab in the browser
-                 b)Type url http://localhost/Banking_System/
+                 b)Type url http://localhost/banking/
 				 
       
 	 
@@ -43,7 +43,7 @@ Steps-FOR UBUNTU
       
         To find htdocs folder, This PC--->Local disk(C:)--->xampp--->htdocs
         
-        (you have to paste Banking_System Folder inside htdocs folder)
+        (you have to paste "banking" Folder inside htdocs folder)
       3)Now search on windows search bar "xampp",select xampp control panel and hit enter. 
       4)Xampp software will be launched.
       5)On the top, click Manage Server
@@ -61,7 +61,7 @@ Steps-FOR UBUNTU
 	     After clicking you can see all the tables in that databases)
       14)Now you are ready to view the site---"BANKING SYSTEM WEB APPLICATION"
          To view,a)Open a new tab in the browser
-                 b)Type url http://localhost/Banking_System/
+                 b)Type url http://localhost/banking/
 
 
 
